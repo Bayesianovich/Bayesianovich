@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./layout.css">
 
-### _Hi there 👋, I'm Showtsing._
+### _Hi there 👋, I'm cor._
 
 I have huge attraction 🔭 on Computer Science 🖥️，Statistics📈 Artificial Intelligence🤖. I love to talk on Trending ⚡ Technology ⚡, Contact me via [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hsc2333work@gmail.com).
 
